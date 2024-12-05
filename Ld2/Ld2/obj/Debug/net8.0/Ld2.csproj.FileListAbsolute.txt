@@ -1,0 +1,14 @@
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\obj\Debug\net8.0\Ld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\obj\Debug\net8.0\Ld2.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\obj\Debug\net8.0\Ld2.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\obj\Debug\net8.0\Ld2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\bin\Debug\net8.0\Ld2.exe
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\bin\Debug\net8.0\Ld2.deps.json
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\bin\Debug\net8.0\Ld2.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\bin\Debug\net8.0\Ld2.dll
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\bin\Debug\net8.0\Ld2.pdb
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\obj\Debug\net8.0\Ld2.dll
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\obj\Debug\net8.0\refint\Ld2.dll
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\obj\Debug\net8.0\Ld2.pdb
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\obj\Debug\net8.0\Ld2.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Desktop\Dima\C#\Ld2\Ld2\obj\Debug\net8.0\ref\Ld2.dll
